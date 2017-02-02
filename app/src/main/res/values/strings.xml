@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Button-counter-Masiowski</string>
+    <string name="app_name">Button Counter</string>
+
+    <string name="increment" value="+1">Increment</string>
+    <string name="decrement" value="-1">Decrement</string>
+    <string name="clear" value="0">Clear</string>
+
+    <string name="number">0</string>
+
 </resources>

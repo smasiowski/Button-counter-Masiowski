@@ -10,8 +10,54 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.introtoandroid.button_counter_masiowski.MainActivity">
 
+
     <TextView
+        android:text="@integer/counter"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="133dp"
+        android:id="@+id/counter" />
+
+    <Button
+        android:text="Increment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/counter"
+        android:layout_toLeftOf="@+id/counter"
+        android:layout_toStartOf="@+id/counter"
+        android:layout_marginRight="17dp"
+        android:layout_marginEnd="17dp"
+        android:layout_marginTop="41dp"
+        android:id="@+id/increment_button"
+        android:onClick="onClick"/>
+
+
+
+    <Button
+        android:text="Decrement"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/increment_button"
+        android:layout_toRightOf="@+id/counter"
+        android:layout_toEndOf="@+id/counter"
+        android:layout_marginLeft="17dp"
+        android:layout_marginStart="17dp"
+        android:id="@+id/decrement_button"
+        android:onClick="onClick"/>
+
+
+
+    <Button
+        android:text="clear"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/increment_button"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="21dp"
+        android:id="@+id/clear_button"
+        android:onClick="onClick"/>
+
+
 </RelativeLayout>
