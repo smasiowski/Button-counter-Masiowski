@@ -35,25 +35,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    /**
-    public void increment(View v){
-        counterValue ++;
-        counter.setText(Integer.toString(counterValue));
 
-    }
-
-    public void decrement(View v){
-        counterValue --;
-        counter.setText(Integer.toString(counterValue));
-
-    }
-
-    public void clear(View v){
-        counterValue = 0;
-        counter.setText(Integer.toString(counterValue));
-
-    }
-*/
 
     // ONCLICK-----------------------------------------------------------------
     public void onClick(View view) {
