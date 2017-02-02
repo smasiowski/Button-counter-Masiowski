@@ -1,0 +1,7 @@
+#Wed Feb 01 20:35:32 EST 2017
+base.0=/Users/user/AndroidStudioProjects/Button-counter-Masiowski/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b83f511974bcd7c9dc943d452c988b3da7e7c659
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/user/AndroidStudioProjects/Button-counter-Masiowski/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c9839a092de06e0202c5d672f5076c55128bfa36/classes.dex
+base.1=/Users/user/AndroidStudioProjects/Button-counter-Masiowski/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c9839a092de06e0202c5d672f5076c55128bfa36
+file.0=/Users/user/AndroidStudioProjects/Button-counter-Masiowski/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b83f511974bcd7c9dc943d452c988b3da7e7c659/classes.dex
